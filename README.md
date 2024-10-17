@@ -10,6 +10,8 @@ response of the summary based on the   input text context.
 The model is built on:<br>
 <br>1.PyTorch
 <br>2.FastAPI
+<br>3.Docker
+
 
 </p>
 
